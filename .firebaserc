@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "react-testing": "react-ticket-app",
+    "default": "react-ticket-app"
+  }
+}
